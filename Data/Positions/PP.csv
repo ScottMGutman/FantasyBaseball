@@ -1,0 +1,806 @@
+﻿Name,Team,G,playerid
+Evan Phillips,LAD,64,17734
+Tommy Hunter,NYM,18,1157
+Matt Bush,- - -,65,1246
+Adam Ottavino,NYM,66,1247
+Oliver Perez,ARI,7,1514
+Sean Doolittle,WSN,6,1581
+Matt Moore,TEX,63,1890
+Zack Greinke,KCR,26,1943
+Clayton Kershaw,LAD,22,2036
+Adam Wainwright,STL,32,2233
+Corey Kluber,TBR,31,2429
+Lance Lynn,CHW,21,2520
+Jhoulys Chacin,COL,35,2608
+Ross Detwiler,CIN,30,2859
+Kenley Jansen,ATL,65,3096
+Max Scherzer,NYM,23,3137
+David Price,LAD,40,3184
+T.J. McFarland,STL,28,3237
+Zack Britton,NYY,3,3240
+Joe Smith,MIN,34,3281
+Anibal Sanchez,WSN,14,3284
+Darren O'Day,ATL,28,3321
+Liam Hendriks,CHW,58,3548
+Mark Melancon,ARI,62,4264
+Justin Wilson,CIN,5,4301
+Charlie Morton,ATL,31,4676
+Rich Hill,BOS,26,4806
+Jake Diekman,- - -,70,5003
+Anthony Gose,CLE,22,5097
+Jeurys Familia,- - -,48,5114
+Jose Alvarez,SFG,21,5358
+Manny Banuelos,- - -,35,5365
+Michael Pineda,DET,11,5372
+Pedro Baez,HOU,3,5420
+Jesse Chavez,- - -,60,5448
+Arodys Vizcaino,KCR,7,5498
+Madison Bumgarner,ARI,30,5524
+Ryan Brasier,BOS,68,5615
+Tyler Clippard,WSN,4,5640
+Huascar Brazoban,MIA,27,6107
+David Phelps,TOR,65,6316
+Chris Archer,MIN,25,6345
+Jake Odorizzi,- - -,22,6397
+Trevor May,NYM,26,6398
+Jose Cisnero,DET,28,6399
+Steve Cishek,WSN,69,6483
+Alex Cobb,SFG,28,6562
+Carlos Carrasco,NYM,29,6632
+Craig Kimbrel,LAD,63,6655
+Alex Colome,COL,53,6661
+Johnny Cueto,CHW,25,6893
+Chase Anderson,CIN,9,6895
+Martin Perez,TEX,32,6902
+Luis Garcia,SDP,64,6984
+Ian Kennedy,ARI,57,6986
+Ryan Pressly,HOU,50,7005
+Fernando Cruz,CIN,14,7048
+Daniel Bard,COL,57,7115
+Daniel Hudson,LAD,25,7146
+Greg Holland,TEX,5,7196
+Craig Stammen,SDP,33,7274
+Jay Jackson,ATL,2,7432
+Collin McHugh,ATL,58,7531
+Jake McGee,- - -,42,7550
+Jordan Lyles,BAL,32,7593
+Tommy Milone,SEA,7,7608
+Wily Peralta,DET,28,7738
+Richard Bleier,MIA,55,7803
+Hunter Strickland,CIN,66,7836
+Anthony Bass,- - -,74,7982
+Will Smith,- - -,65,8048
+Bryan Shaw,CLE,60,8110
+David Robertson,- - -,58,8241
+Paolo Espino,WSN,42,8246
+Lucas Luetge,NYY,50,8337
+Justin Verlander,HOU,28,8700
+Wade Miley,CHC,9,8779
+Cesar Valdez,LAA,1,9013
+Kirby Yates,ATL,9,9073
+Brad Hand,PHI,55,9111
+Nathan Eovaldi,BOS,20,9132
+Patrick Corbin,WSN,31,9323
+Dallas Keuchel,- - -,14,9434
+Brian Moran,LAA,1,9646
+Joe Kelly,CHW,43,9761
+Garrett Richards,TEX,32,9784
+Miles Mikolas,STL,33,9803
+Sergio Romo,- - -,23,9817
+Mike Minor,CIN,19,10021
+Tyler Matzek,ATL,42,10058
+Brooks Raley,TBR,60,10061
+Caleb Thielbar,MIN,67,10078
+Kyle Gibson,PHI,31,10123
+Stephen Strasburg,WSN,1,10131
+Brad Boxberger,MIL,70,10133
+Ryan Weber,NYY,5,10160
+Shelby Miller,SFG,4,10197
+Aroldis Chapman,NYY,43,10233
+Ryan Tepera,LAA,59,10291
+Zack Wheeler,PHI,26,10310
+Erasmo Ramirez,WSN,60,10314
+Juan Minaya,MIN,6,10341
+Aaron Loup,LAA,65,10343
+Robbie Erlin,LAD,2,10354
+Mychal Givens,- - -,59,10430
+Scott Alexander,SFG,17,10591
+Chris Sale,BOS,2,10603
+Andrew Bellatti,PHI,59,10657
+Tyler Thornburg,- - -,14,10688
+Drew Hutchison,DET,28,10732
+Shane Greene,- - -,2,10756
+Adam Kolarek,OAK,15,10843
+Chasen Shreve,NYM,25,10855
+Jacob deGrom,NYM,11,10954
+Casey Lawrence,TOR,6,11121
+Merrill Kelly,ARI,33,11156
+Vince Velasquez,CHW,27,11189
+Tommy Kahnle,LAD,13,11384
+Jose Quintana,- - -,32,11423
+Robbie Ray,SEA,32,11486
+Joely Rodriguez,NYM,55,11487
+Aaron Sanchez,- - -,15,11490
+Jose Urena,- - -,21,11589
+Heath Hembree,- - -,26,11632
+Jameson Taillon,NYY,32,11674
+Justin Grimm,OAK,15,11720
+Drew Smyly,CHC,22,11760
+Noah Syndergaard,- - -,25,11762
+Hansel Robles,BOS,26,11801
+Hector Neris,HOU,70,11804
+Taijuan Walker,NYM,29,11836
+Chris Martin,- - -,60,11847
+Jason Adam,TBR,67,11861
+Michael Feliz,BOS,1,11903
+Kyle Hendricks,CHC,16,12049
+Yimi Garcia,TOR,61,12095
+Parker Markel,OAK,3,12106
+Domingo Tapia,OAK,11,12178
+Aaron Brooks,STL,5,12272
+Chris Bassitt,NYM,30,12304
+Jacob Barnes,- - -,23,12323
+Spencer Patton,TEX,7,12361
+Seth Lugo,NYM,62,12447
+Blake Treinen,LAD,5,12572
+Jerad Eickhoff,PIT,1,12664
+Roenis Elias,SEA,7,12673
+Adrian Houser,MIL,22,12718
+Nick Martinez,SDP,47,12730
+Rafael Montero,HOU,71,12760
+Chris Devenski,- - -,13,12763
+Sonny Gray,MIN,24,12768
+John Brebbia,SFG,76,12777
+Michael Kelly,PHI,4,12791
+Noe Ramirez,ARI,55,12800
+Matt Wisler,TBR,39,12804
+Mike Clevinger,SDP,23,12808
+Andrew Kittredge,TBR,17,12828
+Shawn Armstrong,- - -,50,12857
+Matt Barnes,BOS,44,12863
+Tyler Anderson,LAD,31,12880
+Alex Claudio,NYM,3,12890
+Ken Giles,SEA,5,12910
+Dylan Bundy,MIN,29,12917
+Archie Bradley,LAA,21,12918
+Joe Musgrove,SDP,30,12970
+Andrew Chafin,DET,64,12988
+Anthony DeSclafani,SFG,5,13050
+Yu Darvish,SDP,30,13074
+Gerrit Cole,NYY,33,13125
+Derek Law,- - -,17,13133
+Eduardo Rodriguez,DET,17,13164
+Kyle Crick,CHW,14,13182
+Zach Davies,ARI,27,13183
+Jordan Weems,WSN,32,13190
+Michael Fulmer,- - -,67,13218
+Louis Head,- - -,28,13259
+Ross Stripling,TOR,32,13273
+Danny Coulombe,MIN,10,13293
+Adrian Sampson,CHC,21,13339
+Luis Cessa,CIN,46,13345
+Hoby Milner,MIL,67,13346
+Steven Matz,STL,15,13361
+Dylan Floro,MIA,56,13394
+Sam Selman,OAK,16,13397
+R.J. Alvarez,NYM,1,13401
+Matt Koch,SEA,4,13420
+Drew VerHagen,STL,19,13424
+Marcus Stroman,CHC,25,13431
+Pierce Johnson,SDP,15,13435
+Taylor Rogers,- - -,66,13449
+Lucas Sims,CIN,6,13470
+Daniel Norris,- - -,41,13475
+Connor Sadzeck,MIL,2,13483
+Blake Snell,SDP,25,13543
+Steven Okert,MIA,60,13580
+Robert Stephenson,- - -,58,13594
+Carl Edwards Jr.,WSN,57,13607
+Jakob Junis,SFG,23,13619
+Clay Holmes,NYY,62,13649
+Tayler Scott,SDP,8,13652
+Jharel Cotton,- - -,30,13654
+Robert Gsellman,CHC,8,13696
+Joey Krehbiel,BAL,56,13707
+Kyle Barraclough,LAA,8,13713
+Max Fried,ATL,30,13743
+Tyler Duffey,MIN,40,13758
+Chris Stratton,- - -,60,13761
+Dominic Leone,SFG,55,13763
+JT Chargois,TBR,21,13767
+Zach Eflin,PHI,20,13774
+Alex Wood,SFG,26,13781
+Matt Strahm,BOS,50,13799
+Austin Adams,SDP,2,13801
+Alec Mills,CHC,7,13834
+Paul Sewald,SEA,65,13892
+Chris Flexen,SEA,33,13896
+Brent Suter,MIL,54,13942
+Michael Wacha,BOS,23,14078
+Kevin Gausman,TOR,31,14107
+Lance McCullers Jr.,HOU,8,14120
+Chris Mazza,TBR,2,14151
+Jose Berrios,TOR,32,14168
+Josh Hader,- - -,56,14212
+Luke Bard,- - -,9,14288
+Wandy Peralta,NYY,56,14295
+Frankie Montas,- - -,27,14309
+Joel Payamps,- - -,41,14332
+Ty Blach,COL,24,14361
+Tyler Glasnow,TBR,2,14374
+Amir Garrett,KCR,60,14375
+Yunior Marte,SFG,39,14416
+Jackson Stephens,ATL,39,14420
+Hyun-Jin Ryu,TOR,6,14444
+J.B. Wendelken,ARI,29,14506
+Dereck Rodriguez,MIN,2,14509
+Jose Leclerc,TEX,39,14524
+Jorge Lopez,- - -,67,14527
+Carlos Estevez,COL,62,14542
+Jose Ruiz,CHW,63,14552
+Rowan Wick,CHC,64,14646
+Chi Chi Gonzalez,- - -,7,14663
+Jandel Gustave,MIL,27,14665
+Duane Underwood Jr.,PIT,51,14677
+Andres Machado,WSN,51,14681
+Luis Perdomo,MIL,14,14682
+Anthony Banda,- - -,32,14706
+Edwin Diaz,NYM,61,14710
+Paul Blackburn,OAK,21,14739
+Julio Urias,LAD,31,14765
+Emilio Pagan,MIN,59,14771
+Buck Farmer,CIN,44,14814
+Mark Appel,PHI,6,14823
+Michael Lorenzen,LAA,18,14843
+Matt Dermody,CHC,1,14844
+Joe Mantiply,ARI,69,14857
+Sam Moll,OAK,53,14874
+Caleb Smith,ARI,44,14875
+Jon Gray,TEX,24,14916
+Reyes Moronta,- - -,39,14966
+Chad Kuhl,COL,27,14975
+Giovanny Gallegos,STL,57,14986
+Scott Barlow,KCR,69,14993
+Kyle Finnegan,WSN,66,15009
+Corey Knebel,PHI,46,15010
+Chase De Jong,PIT,42,15036
+German Marquez,COL,31,15038
+Tim Mayza,TOR,63,15042
+Lou Trivino,- - -,64,15043
+Trevor Gott,MIL,45,15046
+Austin Voth,- - -,41,15047
+Silvino Bracho,ATL,3,15051
+Yency Almonte,LAD,33,15068
+Rob Zastryzny,- - -,6,15094
+Luke Farrell,- - -,6,15101
+Collin Wiles,OAK,4,15106
+Tyler Danish,BOS,32,15126
+Ashton Goudeau,COL,12,15139
+Justin Topa,MIL,7,15145
+Jimmy Yacabonis,- - -,14,15157
+Cole Sulser,MIA,39,15256
+Keynan Middleton,ARI,18,15264
+Adam Cimber,TOR,77,15288
+Austin Pruitt,OAK,39,15290
+Steven Brault,CHC,9,15291
+Kevin Herget,TBR,3,15369
+Andrew Heaney,LAD,16,15423
+Matthew Boyd,SEA,10,15440
+Zack Weiss,LAA,12,15444
+Mike Mayers,LAA,24,15451
+Nick Pivetta,BOS,33,15454
+Marco Gonzales,SEA,32,15467
+Lucas Giolito,CHW,30,15474
+Antonio Senzatela,COL,19,15488
+Hunter Harvey,WSN,38,15507
+Kendall Graveman,CHW,65,15514
+Tyler Rogers,SFG,68,15541
+Mark Leiter Jr.,CHC,35,15551
+Chad Green,NYY,14,15552
+Nick Wittgren,STL,29,15594
+Phillips Valdez,BOS,13,15605
+Miguel Castro,NYY,34,15684
+Luis Castillo,- - -,25,15689
+Brad Keller,KCR,35,15734
+Joe Jimenez,DET,62,15761
+Devin Williams,MIL,65,15816
+Zack Littell,SFG,39,15823
+Paul Fry,- - -,13,15832
+Sean Manaea,SDP,30,15873
+Luis Severino,NYY,19,15890
+Victor Arano,WSN,43,15915
+Ryne Stanek,HOU,59,15947
+Zach Thompson,PIT,29,16094
+Jordan Romano,TOR,63,16122
+Chris Ellis,BAL,2,16125
+Carlos Rodon,SFG,31,16137
+Aaron Nola,PHI,32,16149
+Brandon Woodruff,MIL,27,16162
+Jake Reed,- - -,18,16209
+Kyle Freeland,COL,31,16256
+Aaron Bummer,CHW,32,16258
+Sam Howard,PIT,3,16265
+A.J. Ladwig,MIA,1,16266
+John Means,BAL,2,16269
+Sam Clay,- - -,7,16279
+Jesus Tinoco,TEX,17,16300
+Gerardo Reyes,LAA,2,16306
+Ryan Borucki,- - -,32,16350
+Tyler Mahle,- - -,23,16358
+Ryan Castellani,OAK,3,16377
+Reynaldo Lopez,CHW,61,16400
+Yonny Chirinos,TBR,2,16401
+Blake Taylor,HOU,19,16418
+Foster Griffin,- - -,6,16432
+James Norwood,PHI,20,16440
+Ryan Yarbrough,TBR,20,16502
+Jordan Montgomery,- - -,32,16511
+Dusten Knight,TBR,6,16537
+Austin Gomber,COL,33,16561
+Erik Swanson,SEA,57,16587
+Bryan Abreu,HOU,55,16609
+J.P. Feyereisen,TBR,22,16610
+Jeff Brigham,MIA,16,16631
+Ryan Thompson,TBR,47,16647
+Julian Merryweather,TOR,26,16703
+Vinny Nittoli,PHI,2,16754
+Tim Hill,SDP,55,16814
+Brennan Bernardino,SEA,2,16835
+Locke St. John,CHC,1,16850
+Reed Garrett,WSN,7,16866
+Eric Stout,- - -,20,16873
+Luke Weaver,- - -,27,16918
+Touki Toussaint,LAA,8,16929
+Elieser Hernandez,MIA,20,16933
+Luis Ortiz,SFG,6,16942
+Sean Newcomb,- - -,20,16943
+Trevor Williams,NYM,30,16977
+Daniel Mengden,KCR,5,16980
+Tyler Beede,- - -,31,16981
+Tanner Banks,CHW,35,16990
+Sean Reid-Foley,NYM,7,17034
+Pablo Lopez,MIA,32,17085
+Domingo Acevedo,OAK,70,17092
+Austin Davis,- - -,52,17117
+Raisel Iglesias,- - -,67,17130
+Domingo German,NYY,15,17149
+Jose Castillo,SDP,1,17169
+Gabe Speier,KCR,17,17170
+Bubby Rossman,PHI,1,17179
+Yoan Lopez,NYM,8,17181
+Dinelson Lamet,- - -,32,17186
+Jalen Beeks,TBR,42,17192
+Austin Brice,PIT,4,17237
+Sam Coonrod,PHI,12,17264
+Ranger Suarez,PHI,29,17277
+Michael Kopech,CHW,25,17282
+Justus Sheffield,SEA,6,17285
+Javy Guerra,- - -,18,17292
+Framber Valdez,HOU,31,17295
+Justin Steele,CHC,24,17312
+Brett Martin,TEX,55,17369
+Matt Gage,TOR,11,17381
+Erick Fedde,WSN,27,17425
+Jeff Hoffman,CIN,35,17432
+Jonathan Hernandez,TEX,29,17464
+Jack Flaherty,STL,9,17479
+Daniel Duarte,CIN,3,17480
+Albert Abreu,- - -,33,17485
+Spenser Watkins,BAL,23,17489
+Genesis Cabrera,STL,39,17490
+Diego Castillo,SEA,59,17496
+Ryan Burr,CHW,8,17536
+Jimmy Herget,LAA,49,17556
+JT Brubaker,PIT,28,17578
+Marcos Diplan,BAL,5,17583
+Tanner Scott,MIA,67,17586
+Mitch Keller,PIT,31,17594
+Cristian Javier,HOU,30,17606
+Tanner Rainey,WSN,29,17610
+Taylor Clarke,KCR,47,17611
+Justin Lawrence,COL,38,17639
+Jeffrey Springs,TBR,33,17677
+Ralph Garza,TBR,19,17682
+Jose Cuas,KCR,47,17701
+Trevor Megill,MIN,40,17722
+Nabil Crismatt,SDP,50,17732
+Tyler Alexander,DET,27,17735
+Drew Smith,NYM,44,17755
+Jose Alvarado,PHI,59,17780
+Jake Brentz,KCR,8,17783
+Dillon Tate,BAL,67,17796
+Adbert Alzolay,CHC,6,17859
+Ian Gibaut,- - -,34,17871
+Nestor Cortes,NYY,28,17874
+Dennis Santana,TEX,63,17878
+Tayler Saucedo,TOR,4,17888
+Garrett Cleavinger,- - -,17,17897
+Trent Thornton,TOR,32,17948
+Tyler Gilbert,ARI,8,17964
+Brock Burke,TEX,52,17968
+Logan Webb,SFG,32,17995
+Pete Fairbanks,TBR,24,17998
+Triston McKenzie,CLE,31,18000
+Phil Maton,HOU,67,18064
+Cody Stashak,MIN,11,18088
+Ryan Helsley,STL,54,18138
+Anthony Misiewicz,- - -,32,18152
+James Naile,STL,7,18186
+Art Warren,CIN,39,18251
+Jarlin Garcia,SFG,58,18282
+Tyler Kinley,COL,25,18297
+Josh Sborz,TEX,19,18323
+Taylor Hearn,TEX,31,18325
+James Kaprielian,OAK,27,18331
+Alex Young,- - -,25,18333
+Josh Staumont,KCR,42,18335
+Jaime Barria,LAA,35,18356
+Connor Overton,CIN,6,18376
+Scott Effross,- - -,60,18384
+Enyel De Los Santos,CLE,50,18403
+Jose Urquidy,HOU,29,18413
+Tyler Cyr,- - -,12,18421
+Danny Young,- - -,3,18439
+Trevor Kelley,MIL,18,18454
+Junior Fernandez,- - -,16,18496
+Josh Rogers,WSN,16,18510
+Phil Bickford,LAD,60,18519
+Dylan Cease,CHW,32,18525
+Sam Hentges,CLE,57,18548
+Logan Allen,- - -,7,18555
+Anderson Espinoza,CHC,7,18593
+Travis Lakins Sr.,BAL,6,18600
+A.J. Minter,ATL,75,18655
+Jake Woodford,STL,27,18674
+Freddy Peralta,MIL,18,18679
+Sandy Alcantara,MIA,32,18684
+Kolby Allard,TEX,10,18694
+Nick Neidert,MIA,1,18699
+Cody Poteet,MIA,12,18769
+Dillon Peters,PIT,22,18790
+Drew Steckenrider,SEA,16,18806
+Miguel Diaz,DET,3,18815
+Pedro Avila,SDP,2,18864
+Tommy Nance,MIA,35,19178
+Kirby Snead,OAK,46,19179
+Robert Dugger,- - -,4,19191
+Conner Menez,CHC,1,19199
+Jose Quijada,LAA,42,19200
+Dakota Hudson,STL,27,19206
+Mitch White,- - -,25,19225
+Cole Irvin,OAK,30,19244
+Seranthony Dominguez,PHI,54,19249
+Ian Hamilton,MIN,1,19261
+Thomas Hatch,TOR,1,19264
+Taylor Widener,ARI,14,19266
+Justin Dunn,CIN,7,19268
+T.J. Zeuch,CIN,3,19269
+Vladimir Gutierrez,CIN,10,19278
+Kyle Dowdy,CIN,2,19285
+Zac Gallen,ARI,31,19291
+Trevor Richards,TOR,62,19309
+Cal Quantrill,CLE,32,19312
+Eric Lauer,MIL,29,19316
+Matthew Festa,SEA,53,19330
+A.J. Puk,OAK,62,19343
+Daulton Jefferies,OAK,8,19345
+Caleb Ferguson,LAD,37,19349
+Dean Kremer,BAL,22,19350
+Cody Sedlock,BAL,1,19357
+Corbin Burnes,MIL,33,19361
+Keegan Akin,BAL,45,19362
+Walker Buehler,LAD,12,19374
+Tony Gonsolin,LAD,24,19388
+Colin Poche,TBR,65,19403
+Ronel Blanco,HOU,7,19407
+Dane Dunning,TEX,29,19409
+Shane Bieber,CLE,31,19427
+Yohan Ramirez,- - -,30,19444
+Patrick Sandoval,LAA,27,19447
+Shaun Anderson,TOR,1,19453
+Michael Rucker,CHC,41,19454
+Bryan Garcia,DET,4,19457
+Jorge Alcala,MIN,2,19459
+Aaron Civale,CLE,20,19479
+Andrew Vasquez,- - -,10,19482
+Devin Smeltzer,MIN,15,19487
+Zach Jackson,OAK,54,19493
+Raynel Espinal,CIN,2,19516
+Tanner Tully,CLE,3,19518
+Cam Vieaux,PIT,8,19529
+Jason Foley,DET,60,19531
+Ryan Hendrix,CIN,9,19535
+Jimmy Lambert,CHW,42,19541
+Stephen Nogosek,NYM,12,19545
+David Bednar,PIT,45,19569
+JoJo Romero,- - -,17,19574
+Norge Ruiz,OAK,14,19580
+Sean Poppen,ARI,29,19583
+Luke Barker,MIL,3,19609
+Cionel Perez,BAL,66,19614
+Jordan Hicks,STL,35,19618
+Matt Foster,CHW,48,19647
+Kyle Wright,ATL,30,19665
+Jason Alexander,MIL,18,19666
+Gregory Soto,DET,64,19677
+Jordan Sheffield,COL,2,19682
+Connor Seabold,BOS,5,19695
+Matt Swarmer,CHC,11,19705
+Patrick Murphy,WSN,6,19712
+Dustin May,LAD,6,19716
+Kodi Whitley,STL,14,19731
+Anthony Bender,MIA,22,19742
+Jonathan Loaisiga,NYY,50,19753
+Reiver Sanmartin,CIN,45,19754
+Will Vest,DET,59,19769
+Jacob Lemoine,OAK,9,19785
+Anthony Castro,CLE,12,19789
+Keegan Thompson,CHC,29,19795
+Wil Crowe,PIT,60,19800
+Bryan Baker,BAL,66,19804
+Daniel Castano,MIA,10,19805
+David McKay,- - -,4,19814
+Alex Wells,BAL,2,19845
+Darwinzon Hernandez,BOS,7,19848
+Michael King,NYY,34,19853
+Brandon Bielak,HOU,5,19866
+Drew Carlton,DET,5,19868
+Tucker Davidson,- - -,12,19871
+Alex Faedo,DET,12,19874
+Kevin Ginkel,ARI,30,19876
+Tanner Houck,BOS,32,19879
+Alex Lange,DET,71,19883
+Corbin Martin,ARI,7,19884
+Clarke Schmidt,NYY,29,19899
+Adonis Medina,NYM,14,19903
+Jose Suarez,LAA,22,19911
+Tony Santillan,CIN,21,19926
+Trevor Stephan,CLE,66,19932
+Jhon Romero,MIN,4,19940
+Ian Anderson,ATL,22,19951
+Jesus Luzardo,MIA,18,19959
+Joey Wentz,DET,7,19962
+Tyson Miller,TEX,4,19976
+Zach Plesac,CLE,25,19979
+Bryse Wilson,PIT,25,19990
+Joel Kuhnel,CIN,53,19995
+Dylan Lee,ATL,46,19996
+Tyler Wells,BAL,23,20000
+Kenny Rosenberg,LAA,3,20009
+Wyatt Mills,- - -,27,20010
+John Schreiber,BOS,64,20020
+Rico Garcia,BAL,6,20023
+Phillip Diehl,CIN,5,20030
+Adrian Morejon,SDP,26,20039
+Ronald Bolanos,KCR,8,20041
+Jesus Cruz,ATL,7,20042
+Jake Fishman,MIA,7,20060
+Kaleb Ort,BOS,25,20061
+Bailey Falter,PHI,20,20070
+Miguel Sanchez,MIL,12,20074
+Mauricio Llovera,SFG,17,20080
+Chris Paddack,MIN,5,20099
+Michel Baez,SDP,2,20100
+Calvin Faucher,TBR,22,20116
+Adam Oller,OAK,19,20132
+James Karinchak,CLE,38,20151
+Nick Nelson,PHI,47,20153
+Kyle Muller,ATL,3,20167
+Zach Pop,- - -,36,20185
+Chad Smith,COL,15,20190
+Garrett Whitlock,BOS,31,20191
+Eli Morgan,CLE,50,20203
+Jeremy Beasley,TOR,9,20205
+Mike Baumann,BAL,13,20206
+Jake Walsh,STL,3,20227
+Zach Logue,OAK,14,20231
+Zac Lowther,BAL,1,20243
+Griffin Jax,MIN,65,20253
+Cory Abbott,WSN,16,20277
+Jhonathan Diaz,LAA,4,20298
+David Peterson,NYM,28,20302
+Erich Uelmen,CHC,25,20323
+Matt Peacock,- - -,9,20339
+Riley O'Brien,SEA,1,20348
+Zack Kelly,BOS,13,20349
+Steven Wilson,SDP,50,20353
+Brusdar Graterol,LAD,46,20367
+Matt Manning,DET,13,20369
+Bruce Zimmermann,BAL,15,20370
+Andres Munoz,SEA,64,20373
+Greg Weissert,NYY,12,20375
+Anthony Kay,TOR,1,20387
+Josh Fleming,TBR,10,20418
+Jovani Moran,MIN,31,20422
+Rony Garcia,DET,16,20430
+Enoli Paredes,HOU,3,20447
+Huascar Ynoa,ATL,2,20468
+Casey Mize,DET,2,20492
+Kyle Nelson,ARI,43,20515
+Nick Sandlin,CLE,46,20517
+Denyi Reyes,BAL,3,20526
+Kutter Crawford,BOS,21,20531
+Edwin Uceta,ARI,10,20539
+Phoenix Sanders,TBR,8,20541
+Bowden Francis,TOR,1,20548
+Kirk McCarty,CLE,13,20555
+Jackson Tetreault,WSN,4,20565
+Anderson Severino,CHW,6,20582
+JC Mejia,MIL,2,20617
+Jordan Holloway,MIA,1,20631
+Yusei Kikuchi,TOR,32,20633
+Luis Castillo,DET,3,20638
+Felix Bautista,BAL,65,20666
+Cristofer Ogando,TBR,3,20667
+Cristopher Sanchez,PHI,15,20778
+Manuel Rodriguez,CHC,14,20794
+Aneurys Zabala,MIA,2,20802
+Elvin Rodriguez,DET,7,20962
+Eduard Bazardo,BOS,12,20997
+Francisco Perez,WSN,10,21018
+Adrian Martinez,OAK,12,21023
+Oliver Ortega,LAA,27,21025
+Jhoan Duran,MIN,57,21029
+Emmanuel Clase,CLE,77,21032
+Seth Martinez,HOU,29,21045
+Luis Gil,NYY,1,21052
+Thomas Szapucki,- - -,11,21065
+Nick Duron,PHI,1,21092
+Nick Vespi,BAL,25,21093
+Dauri Moreta,CIN,35,21101
+Miguel Yajure,PIT,12,21111
+Alexis Diaz,CIN,59,21132
+Dany Jimenez,OAK,34,21170
+Humberto Castellanos,ARI,11,21183
+Connor Brogdon,PHI,47,21205
+Bailey Ober,MIN,11,21224
+Jake Bird,COL,38,21267
+Lucas Gilbreath,COL,47,21290
+Andre Jackson,LAD,4,21298
+Tylor Megill,NYM,15,21318
+Bryce Montes de Oca,NYM,3,21319
+Parker Mushinski,HOU,7,21324
+Nicholas Padilla,CHC,1,21327
+Bennett Sousa,CHW,25,21345
+Glenn Otto,TEX,27,21366
+Peter Strzelecki,MIL,30,21367
+Joe Ryan,MIN,27,21390
+Yerry De Los Santos,PIT,26,21420
+Ryan Feltner,COL,20,21446
+Davis Martin,CHW,14,21448
+Konnor Pilkington,CLE,15,21453
+Kris Bubic,KCR,28,21455
+Cole Sands,MIN,11,21461
+Sean Hjelle,SFG,8,21481
+Shane McClanahan,TBR,29,21483
+Daniel Lynch,KCR,27,21537
+Reiss Knehr,SDP,5,21541
+Jackson Kowar,KCR,7,21549
+Brendon Little,CHC,1,21574
+Jake Cousins,MIL,12,21620
+Elvis Peguero,LAA,13,21652
+Kervin Castro,- - -,10,21656
+Edward Cabrera,MIA,14,21690
+Javier Assad,CHC,9,21741
+Jose Marte,LAA,11,21761
+Braxton Garrett,MIA,17,21844
+Cole Ragans,TEX,9,21846
+Mason Thompson,WSN,24,21850
+Gregory Santos,SFG,2,21894
+Yerry Rodriguez,TEX,1,21955
+Max Castillo,- - -,14,21956
+Camilo Doval,SFG,68,21992
+Luis Frias,ARI,15,21997
+Angel Rondon,STL,1,22036
+John King,TEX,39,22051
+Aaron Fletcher,PIT,9,22052
+Kyle Tyler,SDP,2,22092
+Max Kranick,PIT,2,22175
+Easton McGee,TBR,1,22176
+Hunter Greene,CIN,24,22182
+MacKenzie Gore,SDP,16,22201
+DL Hall,BAL,11,22207
+Jeremiah Estrada,CHC,5,22210
+Jon Heasley,KCR,21,22224
+Logan Gilbert,SEA,32,22250
+Shane Baz,TBR,6,22264
+Tarik Skubal,DET,21,22267
+Dylan Coleman,KCR,68,22276
+Trevor Rogers,MIA,23,22286
+Matthew Liberatore,STL,9,22294
+Joe Barlow,TEX,35,22296
+Angel De Jesus,DET,8,22323
+A.J. Alexy,TEX,4,22343
+Colin Holderman,- - -,24,22361
+Josh Winckowski,BOS,15,22387
+Logan Gillaspie,BAL,17,22461
+Johan Oviedo,- - -,21,22487
+Carlos Hernandez,KCR,27,22713
+Angel Zerpa,KCR,3,22717
+Roansy Contreras,PIT,21,22810
+Luis Patino,TBR,6,22815
+Francisco Morales,PHI,3,22913
+Joan Adon,WSN,14,22925
+Michael Plassmeyer,PHI,2,23191
+Michael Grove,LAD,7,23221
+Spencer Howard,TEX,10,23252
+Packy Naughton,STL,26,23292
+Janson Junk,LAA,3,23301
+Collin Snider,KCR,42,23307
+Damon Jones,PHI,4,23310
+Jose Butto,NYM,1,23313
+Freddy Tarnok,ATL,1,23324
+Beau Sulser,- - -,10,23420
+Jared Solomon,CIN,9,23425
+JP Sears,- - -,17,23429
+Brandon Hughes,CHC,57,23460
+Tommy Romero,- - -,4,23465
+Ron Marinaccio,NYY,40,23488
+Nicklaus Snyder,TEX,2,23493
+Aaron Ashby,MIL,27,23550
+Luis Garcia,HOU,28,23735
+Justin Bruihl,LAD,24,23779
+Ryan Weathers,SDP,1,23796
+Ray Kerr,SDP,7,23809
+Brayan Bello,BOS,13,23920
+Ronny Henriquez,MIN,3,24094
+Simeon Woods Richardson,MIN,1,24494
+Josiah Gray,WSN,28,24580
+Kyle Bradish,BAL,23,24586
+Josh Winder,MIN,15,24606
+Frank German,BOS,5,24750
+Ethan Roberts,CHC,9,24930
+Andrew Wantz,LAA,42,24933
+Austin Warren,LAA,14,24937
+Cooper Criswell,TBR,1,24975
+Evan Lee,WSN,4,24988
+Alex Vesia,LAD,63,25007
+William Woods,ATL,2,25075
+Cam Alldred,PIT,1,25078
+Garrett Hill,DET,17,25097
+Penn Murfee,SEA,64,25174
+Nick Mears,PIT,2,25376
+Brady Singer,KCR,27,25377
+Sammy Long,SFG,28,25379
+Drew Rasmussen,TBR,28,25385
+Cody Morris,CLE,7,25388
+Nash Walters,LAA,1,25413
+Gavin Hollowell,COL,6,25427
+George Kirby,SEA,25,25436
+Nate Fisher,NYM,1,25512
+Xzavion Curry,CLE,2,25595
+Hunter Gaddis,CLE,2,25636
+Cole Waites,SFG,7,25665
+Matt Brash,SEA,39,25756
+Noah Davis,COL,1,25862
+Hunter Brown,HOU,7,25880
+Yennier Cano,- - -,13,25911
+Zack Thompson,STL,22,25918
+Andrew Nardi,MIA,13,25942
+Beau Brieske,DET,15,26079
+Andre Pallante,STL,47,26108
+Caleb Kilian,CHC,3,26213
+Ryan Pepiot,LAD,9,26221
+Tyler Holton,ARI,10,26231
+Ryne Nelson,ARI,3,26253
+Drey Jameson,ARI,4,26260
+Tommy Henry,ARI,9,26285
+Bryan Hoeing,MIA,8,26304
+Ethan Small,MIL,2,26364
+Nick Lodolo,CIN,19,26378
+Alek Manoah,TOR,31,26410
+Reid Detmers,LAA,25,27468
+Cade Cavalli,WSN,1,27473
+Max Meyer,MIA,2,27474
+Spencer Strider,ATL,31,27498
+Kohei Arihara,TEX,5,27505
+Hirokazu Sawamura,BOS,49,27515
+Jared Koenig,OAK,10,27517
+Graham Ashcraft,CIN,19,27552
+Hayden Wesneski,CHC,6,27581
+Luis Ortiz,PIT,4,27646
+Ken Waldichuk,OAK,7,27681
+Louie Varland,MIN,5,27691
+Bryce Elder,ATL,10,27779
+Chase Silseth,LAA,7,30074
+Robert Suarez,SDP,45,30115
